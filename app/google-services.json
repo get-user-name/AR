@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893877073786",
+    "firebase_url": "https://arstorysns.firebaseio.com",
+    "project_id": "arstorysns",
+    "storage_bucket": "arstorysns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893877073786:android:9764c8d06d58297d",
+        "android_client_info": {
+          "package_name": "com.mraon.arstorysns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893877073786-4n0i7serpvf5p8kolmaeou6t332udefd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mraon.arstorysns",
+            "certificate_hash": "bee98785decd51a4ff4bd085a1fbc0d4a827c6a2"
+          }
+        },
+        {
+          "client_id": "893877073786-b1bptgmk48hahuuobqvujrptemtplu9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGh16jqdDRdyeG5TCBCWuDZ0x77Fux3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893877073786-b1bptgmk48hahuuobqvujrptemtplu9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

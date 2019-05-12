@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'lambert2SG',
+      parameters: [
+        {
+          baseColor: 'Tex_Duck',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/models/Mesh_Duck.obj',
+    name: 'Mesh_Duck',
+    recenter: 'root',
+    scale: 0.046522000000000001,
+  },
+  samplers: [
+    {
+      file: 'sampledata/models/Tex_Duck.png',
+      name: 'Tex_Duck',
+      pipeline_name: 'Tex_Duck.png',
+    },
+  ],
+  version: '0.54:2',
+}
